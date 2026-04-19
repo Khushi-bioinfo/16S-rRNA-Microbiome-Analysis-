@@ -1,3 +1,3 @@
-Sample Accession - SAMEA10313248
-Sample type - human gut metagenome
-Source - European Nucleotide Archive
+1. Sample Accession - SAMEA10313248
+2. Sample type - human gut metagenome
+3. Source - European Nucleotide Archive
