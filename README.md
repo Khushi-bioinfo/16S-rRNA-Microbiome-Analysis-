@@ -13,8 +13,10 @@ DADA2
 Docker
 
 *Data*
-Input: FASTQ file (single sample)
-Output: ASV table, taxonomy table, abundance plots
+Input: 
+FASTQ file (single sample)
+Output:
+ASV table, taxonomy table, abundance plots
 
 *Workflow Steps*
 Quality control (FastQC)
