@@ -1,4 +1,4 @@
-# 16S-rRNA-Microbiome-Analysis-
+# 16S-rRNA-Microbiome-Analysis
 using nf-core/ampliseq pipeline
 Microbiome Analysis Project (nf-core/ampliseq)
 
