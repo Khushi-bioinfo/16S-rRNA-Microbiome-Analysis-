@@ -8,15 +8,15 @@ This project analyzes 16S rRNA sequencing data using nf-core/ampliseq pipeline.
 
 *Tools Used*
 nf-core/ampliseq
-QIIME2
-DADA2
-Docker
+/n QIIME2
+/n DADA2
+/n Docker
 
 *Data*
 Input: 
-FASTQ file (single sample)
+/n FASTQ file (single sample)
 Output:
-ASV table, taxonomy table, abundance plots
+/n ASV table, taxonomy table, abundance plots
 
 *Workflow Steps*
 Quality control (FastQC)
