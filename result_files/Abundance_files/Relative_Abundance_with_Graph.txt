@@ -1,0 +1,63 @@
+Kingdom	Phylum	Class	Order	Family	Genus	Abundance	Relative_abundance  in %
+#OTU ID	sample					5767	22.01649233
+Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Erysipelatoclostridium	127	0.484843857
+Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae		274	1.046041078
+Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Flavonifractor	128	0.488661526
+Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Ezakiella	10	0.038176682
+Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Eisenbergiella	6	0.022906009
+Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	308	1.175841796
+Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	257	0.981140719
+Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Frisingicoccus	32	0.122165381
+Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Peptoniphilus	523	1.996640452
+Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Negativibacillus	21	0.080171032
+Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	[Ruminococcus] torques group	542	2.069176147
+Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae		38	0.14507139
+Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_9	3444	13.14804917
+Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	482	1.840116057
+Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Lawsonella	12	0.045812018
+Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Adlercreutzia	13	0.049629686
+Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	292	1.114759105
+Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Tuzzerella	86	0.328319462
+Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	70	0.267236772
+Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Anaerococcus	410	1.565243949
+Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	2340	8.933343514
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	38	0.14507139
+Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	13	0.049629686
+Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	5767	22.01649233
+Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Sellimonas	89	0.339772467
+Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] fissicatena group	5	0.019088341
+Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Peptostreptococcus	165	0.629915248
+Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	UBA1819	12	0.045812018
+Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	1063	4.058181263
+Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Intestinibacter	14	0.053447354
+Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	3	0.011453005
+Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Eggerthella	23	0.087806368
+Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Fournierella	62	0.236695426
+Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	[Ruminococcus] gauvreauii group	9	0.034359014
+Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Incertae Sedis	18	0.068718027
+Bacteria	Firmicutes	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	11	0.04199435
+Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Odoribacter	24	0.091624036
+Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	DTU089	2	0.007635336
+Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Oscillibacter	34	0.129800718
+Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Phocea	6	0.022906009
+Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Holdemania	9	0.034359014
+Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila	125	0.477208521
+Bacteria	Firmicutes	Clostridia	Oscillospirales	Butyricicoccaceae	Butyricicoccus	120	0.45812018
+Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	22	0.0839887
+Bacteria	Firmicutes	Clostridia	Oscillospirales	[Eubacterium] coprostanoligenes group		4	0.015270673
+Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Murdochiella	6	0.022906009
+Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	UC5-1-2E3	11	0.04199435
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	15	0.057265023
+Bacteria	Firmicutes	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	155	0.591738566
+Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	41	0.156524395
+Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Negativicoccus	14	0.053447354
+Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	79	0.301595785
+Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Candidatus Stoquefichus	10	0.038176682
+Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	[Ruminococcus] gnavus group	500	1.908834084
+Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Candidatus Soleaferrea	7	0.026723677
+Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes	97	0.370313812
+Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	478	1.824845384
+Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	36	0.137436054
+Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	[Clostridium] innocuum group	28	0.106894709
+Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Family XI	Finegoldia	1349	5.150034359
+Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	548	2.092082156
