@@ -1,7 +1,8 @@
 # 16S-rRNA-Microbiome-Analysis-
 using nf-core/ampliseq pipeline
 Microbiome Analysis Project (nf-core/ampliseq)
- Overview
+
+**Overview**
 
 This project analyzes 16S rRNA sequencing data using nf-core/ampliseq pipeline.
 
